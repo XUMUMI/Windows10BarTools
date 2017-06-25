@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "Windows10BarTools", "Windows10BarTools\Windows10BarTools.vbproj", "{722A1D62-5FCF-44D3-935D-E581B1DF2167}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{722A1D62-5FCF-44D3-935D-E581B1DF2167}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{722A1D62-5FCF-44D3-935D-E581B1DF2167}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{722A1D62-5FCF-44D3-935D-E581B1DF2167}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{722A1D62-5FCF-44D3-935D-E581B1DF2167}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
